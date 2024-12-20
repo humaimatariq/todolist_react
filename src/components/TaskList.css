@@ -1,0 +1,51 @@
+.editbut {
+    float: right;
+    height: 18px;
+    background-color: rgb(211, 176, 120);
+    border: solid;
+    border-color:  rgb(174, 139, 87);
+
+
+}
+.savebut{
+    background-color: rgb(211, 176, 120);
+border: none;
+}
+.delbut {
+    float: right;
+    height: 18px;
+    background-color: rgb(211, 176, 120);
+    border: solid;
+    border-color: rgb(174, 139, 87);
+}
+
+#root {
+    margin: 200px;
+    background-color: rgb(231, 225, 180);
+    padding: 30px;
+}
+
+h1 {
+    text-align: center;
+}
+
+label {
+   
+    width: 100%;
+}
+input {
+    width: 70%;
+    margin-bottom: 10px;
+    background-color: blanchedalmond;
+    border: none;
+    outline: none;
+}
+.addbut {
+    width: 25%;
+    background-color: rgb(223, 200, 164);
+    border: none;
+}
+.div2{
+    border: solid;
+    border-color:gray ;   
+}
